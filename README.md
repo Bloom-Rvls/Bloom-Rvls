@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Angélica</h1>
 
 ## 💫 About Me:
-- 🌱 I’m currently learning PHP and his framework Laravel
+- 🌱 I’m a symfony developer
 
 ## 🌐 Socials:
 
